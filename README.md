@@ -1,7 +1,6 @@
 <p align="center">
-                                                                                                                  
-                                                          .''.                                                      
-                                                          .::'                                                    
+                                                          .''.                                                          
+                                                          .::'                                                          
                                                          .:oo:.                                                         
                                                       .';:loolc;'..                                                     
                                                    .,;;:c::clcc:;;;,.                                                   
@@ -48,8 +47,8 @@
                   .cdool;;loooddc. .:..':oddxxxxxxxxxxxxxkxxkxxxxxxxxxxxxxxxxxdl:...lxddxxccdxxddo,                     
                    .cdddooooddo,. .ldo' .',,,;:clllodddxxxxkkxxxxddddoollcc;,,,,'':oxdddxdxkxddxd;                      
                     .,coddddddc;,.'oddl. ,c;.    .....';ldxxkxxoc,'.....   .':ldodxdddxdlodxdoxd:.                      
-                       ...''.'coolclodd, ,ddo;.         ..:odo;.        .,:oddddo:cdoddooodddoc'                        
-                        ....,:odooooddd, 'ododl.      ..'..,c,....     ,odddddc,..:dxxddol:,'..                         
+                       ...''.'coolclodd, ,ddo;.         ..:odo;.        .,:oddddddo:cdoddooodddoc'                        
+                        ....,:odooooddd, 'ododl.      ..'..,c,....     ,oddddddc,..:dxxddol:,'..                         
                         'cldddoooodddxo'.,:ooodl.    ;dclo'..;oloo.   ;oodddo;...;oxxxddoc:::;,.                        
                          .':cldxxddolollo:.'cdxo'    :x;'dl',ll.;d; .:oodxdoolllodddddddo:,..                           
                              ..'''...,cdolc::oxxl'.  'dl,odood:.cxc,cldxxdddxdoddxdoooc;.                               
@@ -57,9 +56,7 @@
                                   ':cloool:;.   .',,,,,locodoc;ox:',,,,,.                                               
                                      ....      .,,.    :d'... 'do.    .,,.                                              
                                                        :d'    'xo.                                                      
-                                                       ..      '.                                                       
-                                                                                                                        
-
+                                                       ..      '.                                                      
 </p>
 <!--
 **caiosoaresf/caiosoaresf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
